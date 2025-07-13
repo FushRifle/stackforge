@@ -13,13 +13,12 @@ export default function Hero() {
                         src="/bg/raw.jpg"
                         alt="Hero background"
                         fill
-                        className="object-cover brightness-50"
+                        className="object-cover brightness-[0.4]"
                         priority
                     />
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
             </div>
-
 
             <div className="container mx-auto px-6">
                 <div className="max-w-4xl mx-auto text-center">
